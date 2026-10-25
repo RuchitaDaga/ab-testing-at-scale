@@ -1,0 +1,4 @@
+Rule,P(≥1 false win)
+No correction (p < 0.05 each),40.0%
+Bonferroni (p < 0.005),4.7%
+Holm step-down,5.3%
